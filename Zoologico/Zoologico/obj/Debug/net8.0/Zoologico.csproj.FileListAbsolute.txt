@@ -1,0 +1,14 @@
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\obj\Debug\net8.0\Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\obj\Debug\net8.0\Zoologico.AssemblyInfoInputs.cache
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\obj\Debug\net8.0\Zoologico.AssemblyInfo.cs
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\obj\Debug\net8.0\Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\bin\Debug\net8.0\Zoologico.exe
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\bin\Debug\net8.0\Zoologico.deps.json
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\bin\Debug\net8.0\Zoologico.runtimeconfig.json
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\bin\Debug\net8.0\Zoologico.dll
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\bin\Debug\net8.0\Zoologico.pdb
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\obj\Debug\net8.0\Zoologico.dll
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\obj\Debug\net8.0\refint\Zoologico.dll
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\obj\Debug\net8.0\Zoologico.pdb
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\obj\Debug\net8.0\Zoologico.genruntimeconfig.cache
+C:\Users\amanda.hass\source\repos\Projetos\Eleve_Elas\Eleve.Elas-Mod2-Zoologico\Zoologico\Zoologico\obj\Debug\net8.0\ref\Zoologico.dll
